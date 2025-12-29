@@ -1,2 +1,28 @@
-# Unsloth-Fine-Tuning-Experiments
-My experiments with using Unsloth to fine tune LLMs. The goals are to learn the process and build intuition.
+# Unsloth Fine Tuning Experiments
+My experiments using Unsloth to fine tune LLMs. The goals are to learn the process and build intuition.
+
+<br>
+
+## Experiments
+
+
+<br>
+
+## Resources
+
+- How to Fine-tune LLMs with Unsloth: Complete Guide<br>
+Pookie<br>
+https://www.youtube.com/watch?v=Lt7KrFMcCis
+
+- Kaggle Notebook - Afrik-Stories - Gemma-2-9b fine-tuned - Afrikaans<br>
+https://www.kaggle.com/code/vbookshelf/afrik-stories-gemma-2-9b-fine-tuned-afrikaans
+
+- Unsloth Github Notebooks<br>
+(Includes both Colab and Kaggle example notebooks)<br>
+https://github.com/unslothai/notebooks/?tab=readme-ov-file
+
+- Unsloth Notebooks (Website)<br>
+https://unsloth.ai/docs/get-started/unsloth-notebooks
+
+
+
