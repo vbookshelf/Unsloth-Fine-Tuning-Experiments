@@ -10,6 +10,7 @@ My experiments using Unsloth to fine tune LLMs. The goals are to learn the proce
 
 ## Notes
 - Fine tuning can be used to condition how the model responds to a given system message e.g. concise instead of verbose response. This use-case requires less data (15 examples). The same system message that's used during fine tuning is also used during inference.
+- Fine tuning can be used to get the model to respond in a specific way without using a system message. No system message is used during fine tuning and during inference. This requires around 500 data examples.
 
 
 <br>
