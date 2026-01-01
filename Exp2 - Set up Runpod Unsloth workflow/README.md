@@ -4,3 +4,4 @@
   
 - Be sure to edit the Template to allocate enough memory to save your fine tuned model.
 - I did not use the Unsloth docker image that's available on Runpod. When using the Unsloth docker image I found that the fine tuned model could not be converted to gguf format using Unsloth - the code failed because of dependency issues.
+- For this experiment I used the A40 GPU (48GB VRAM)
