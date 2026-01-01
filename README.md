@@ -5,6 +5,12 @@ My experiments using Unsloth to fine tune LLMs. The goals are to learn the proce
 
 ## Experiments
 
+- Exp1 - Set up Kaggle Unsloth workflow<br>
+https://github.com/vbookshelf/Unsloth-Fine-Tuning-Experiments/tree/main/Exp1%20-%20Set%20up%20Kaggle%20Unsloth%20workflow
+
+- Exp2 - Set up Runpod Unsloth workflow<br>
+https://github.com/vbookshelf/Unsloth-Fine-Tuning-Experiments/tree/main/Exp2%20-%20Set%20up%20Runpod%20Unsloth%20workflow
+
 
 <br>
 
