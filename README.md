@@ -11,6 +11,9 @@ https://github.com/vbookshelf/Unsloth-Fine-Tuning-Experiments/tree/main/Exp1%20-
 - Exp2 - Set up Runpod Unsloth workflow<br>
 https://github.com/vbookshelf/Unsloth-Fine-Tuning-Experiments/tree/main/Exp2%20-%20Set%20up%20Runpod%20Unsloth%20workflow
 
+- Exp3 - Load the gguf fine tuned model into local Ollama and chat with it<br>
+https://github.com/vbookshelf/Unsloth-Fine-Tuning-Experiments/tree/main/Exp3%20-%20Load%20gguf%20fine%20tuned%20model%20into%20Ollama
+
 
 <br>
 
